@@ -1,0 +1,31 @@
+---
+title: "publications"
+author: "Tobias"
+date: "2/8/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+**Mueller, T.**, Vannette, R. (2021)  Environmental filtering in floral nectar microbial communities. Microbial Ecology, in prep.  
+
+Kahl, H., **Mueller, T.**, Cass, B., Xi, X., Cluff, E., Rosenheim, J. (2021) Herbivory by European Earwigs (Forficula auricularia; Dermaptera: Forficulidae) on Commonly Cultivated California Citrus Species. Journal of Economic Entomology. in revision.  
+
+Vannette, R., Hall, G., McMunn, M., **Mueller, T.**, Munkres, I., Perry, D. (2021)  Culturable bacteria are more common than fungi in floral nectar and are more easily dispersed by thrips, a ubiquitous flower visitor, FEMS Microbial Ecology. doi: 10.1093/femsec/fiab150  PDF
+
+Kahl, H., **Mueller, T.**, Cass, B., Xi, X., Cluff, E., Grafton-Cardwell, B., Rosenheim, J. (2021) Characterizing Herbivory by European earwigs (Dermaptera: Forficulidae) on Navel Orange Fruit. Journal of Economic Entomology. doi: 10.1093/jee/toab121 PDF  
+ 
+
+Cass, B., Kahl, H., **Mueller, T.**, Xi, X., Grafton-Cardwell, E., Rosenheim, J. (2020) Profile of fork-tailed bush katydid (Scudderia furcata Orthoptera: Tettigoniidae) feeding on fruit of clementine mandarins. Journal of Economic Entomology. doi:10.1093/jee/toaa258 PDF  
+
+Cass, B., Hack, L., **Mueller, T.**, Buckman, D., Grafton-Cardwell, E., Rosenheim, J. (2020) Arthropod infestation levels on mandarins in California. Journal of Economic Entomology, 113: 2335–2342. doi:10.1093/jee/toaa141 PDF  
+
+**Mueller, T.**, Kahl, H., Cass. B., Grafton-Cardwell, E., Rosenheim, J. (2019) Differential impacts of citrus thrips, Scirtothrips citri (Thysanoptera: Thripidae), across sweet orange and mandarin species. Journal of Economic Entomology, 112: 2767–2773. doi:10.1093/jee/toz178 PDF  
+
+Rosenheim, J., Booster, N., Culshaw-Maurer, M., **Mueller, T.**, Kuffel, R., Law, Y., Goodell, P., Pierce, T., Godfrey, L., Hunter, W., Sadeh, A. (2019) Disease, contagious cannibalism and associated population crash in an omnivorous bug, Geocoris pallens. Oecologia, 190: 69–83. doi:10.1007/s00442-019-04407-y  PDF  
+
