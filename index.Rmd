@@ -1,7 +1,5 @@
 ---
-title: "Website"
-author: "Tobias"
-date: "2/8/2022"
+title: "Home"
 output: html_document
 ---
 
@@ -11,4 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-## HOME
+### welcome to my test website 
+
+#### just playing around in HTML

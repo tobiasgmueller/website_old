@@ -1,15 +1,18 @@
 name: "our-website"
 navbar:
-  title: "Our Collaborative Website"
+  title: "Tobias G. Mueller"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "CV"
+      href: cv.html      
+    - text: "Publications"
+      href: publications.html          
+      
 output_dir: "."
 output:
   html_document:
     theme: cerulean
     highlight: textmate
-    toc: true 
-    toc_float: true 

@@ -1,7 +1,5 @@
 ---
-title: "about"
-author: "Tobias"
-date: "2/8/2022"
+title: "About"
 output: html_document
 ---
 
@@ -10,4 +8,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## ABUOUT
+### my story.. so much story here...
