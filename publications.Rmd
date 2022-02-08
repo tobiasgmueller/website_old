@@ -1,7 +1,6 @@
 ---
 title: "publications"
-author: "Tobias"
-date: "2/8/2022"
+
 output: html_document
 ---
 
@@ -9,6 +8,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{css, echo=FALSE}
+h1 {
+  text-align: center;
+}
+```
 
 
 

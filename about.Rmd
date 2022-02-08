@@ -1,5 +1,4 @@
 ---
-title: "About"
 output: html_document
 ---
 
@@ -7,5 +6,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{css, echo=FALSE}
+h1 {
+  text-align: center;
+}
+```
 
 ### my story.. so much story here...

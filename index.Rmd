@@ -1,5 +1,4 @@
 ---
-title: "Home"
 output: html_document
 ---
 
@@ -7,13 +6,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-
-
-
-
-
-
+```{css, echo=FALSE}
+h1 {
+  text-align: center;
+}
+```
 
 
 
@@ -35,20 +32,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-![Me and my cat Theodora](https://tobiasgmueller.com/wp-content/uploads/2021/11/catpicture-768x1024.jpg){width=90%}
+![Me and my cat Theodora](https://tobiasgmueller.com/wp-content/uploads/2021/11/catpicture-768x1024.jpg){width=60%}
 ---
 
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-Im Tobias! Im currently an NSF graduate research fellow and PhD student in the department of Entomology at Cornell University co-advised by [Scott McArt](https://blogs.cornell.edu/mcartlab/) and [Bryan Danforth](https://www.danforthlab.entomology.cornell.edu/). Broadly interested in solitary bees, microbial ecology, and pesticide impacts on bee microbiomes.
+#### Im Tobias! Im currently an NSF graduate research fellow and PhD student in the department of Entomology at Cornell University co-advised by [Scott McArt](https://blogs.cornell.edu/mcartlab/) and [Bryan Danforth](https://www.danforthlab.entomology.cornell.edu/). Broadly interested in solitary bees, microbial ecology, and pesticide impacts on bee microbiomes.
  
-Before this I worked at UC Davis with [Rachel Vannette](https://vannettelab.faculty.ucdavis.edu/) studying microbial communities in floral nectar and with [Jay Rosenheim](https://rosenheim.faculty.ucdavis.edu/) studying community dynamics in cotton and alfalfa systems as well as early season insects pests of California citrus.
+#### Before this I worked at UC Davis with [Rachel Vannette](https://vannettelab.faculty.ucdavis.edu/) studying microbial communities in floral nectar and with [Jay Rosenheim](https://rosenheim.faculty.ucdavis.edu/) studying community dynamics in cotton and alfalfa systems as well as early season insects pests of California citrus.
 
 
 </div>
