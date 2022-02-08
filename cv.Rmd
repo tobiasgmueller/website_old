@@ -1,8 +1,6 @@
 ---
 title: "Tobias Mueller"
 output: html_document
-
-
 ---
 
 ```{css, echo=FALSE}
@@ -20,11 +18,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<center>   **PhD student | McArt Lab** </center>  
+<center>   **NSF Graduate Research Fellow
+<br>
+Danforth Lab | McArt Lab** </center>  
 
 
  
-555-555-5555 | emil@cornell.edu | wbsite.com
+555-555-5555 | TM524@cornell.edu | tobiasgmueller.com
 -------------|---------------|-----------
   |   |   
   
